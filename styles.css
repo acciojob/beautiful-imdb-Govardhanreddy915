@@ -1,16 +1,13 @@
-.moviepic{
-	height:350px;
-	width:700px;
-	opacity:30;
-	 display: block;
-    margin: auto;
+.moviePic {
+    height: 350px;
+    width: 700px;
+    opacity: 2.5;
 }
-.moviedetail{
-	position:relative;
-	top:20px;
-	width:100%;
-	text-align: centerr;
+
+.movieDetail {
+    position: relative;
+    top: 20px;
+    width: 100%;
+    text-align: center;
     font-size: 19px;
-    margin: auto;
-	color:orange;
 }
